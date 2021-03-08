@@ -33,7 +33,7 @@ muteSE	0
 muteVoice	0
 playMode	1
 progressInBackground	1
-quickSaveFileNumber	3
+quickSaveFileNumber	4
 sar	1
 screenEffect	1
 screenMode	1
@@ -55,6 +55,6 @@ volumeVoice	100
 windowHeight	759
 windowMode	0
 windowWidth	1296
-windowXpos	177
-windowYpos	257
+windowXpos	-4
+windowYpos	59
 yur	1
