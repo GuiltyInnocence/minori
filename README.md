@@ -1,0 +1,3 @@
+# minori
+
+Galgame savedatas.
